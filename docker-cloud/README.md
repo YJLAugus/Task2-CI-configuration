@@ -1,4 +1,4 @@
-## Docker Cloud example application
+## Docker Cloud application
 
 This is example application which uses GitLab CI to test, build and deploy to Docker Cloud.
 
